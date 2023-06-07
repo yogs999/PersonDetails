@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PersonDetails" parent="Theme.Material3.Dark.NoActionBar">
+
+    </style>
+
+    <style name="Theme.PersonDetails" parent="Base.Theme.PersonDetails" />
+</resources>
